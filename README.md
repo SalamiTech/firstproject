@@ -1,5 +1,4 @@
 # firstproject
 Website for Central University
 
-
-This is just a test project
+We're testing our ReadMe
